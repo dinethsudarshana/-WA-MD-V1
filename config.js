@@ -21,19 +21,19 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot V5' //ur bot name
-global.ownername = "🦄Dream Guy Xeon"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.owner = ['+94 71 325 2351'] //ur number
+global.ownernomer = "+94 71 325 2351" //ur number
+global.ownertag = '+94 71 325 2351' //ur tag number
+global.premium = ['+94 71 325 2351'] //ur premium number
+global.botname = 'BLACK PANTHER MD V1' //ur bot name
+global.ownername = "DINETH SUDARSHANA"
+global.linkz = "https://youtube.com/shorts/r46q6r8pnjQ?feature=share" //your theme url which will be displayed on whatsapp
+global.websitex = "https://github.com/dinethsudarshana" //ur website to be displayed
+global.botscript = 'https://github.com/dinethsudarshana/-WA-MD-V1' //script link
+global.themeemoji = "😜" //ur theme emoji
+global.packname = "Sticker By black panther " //ur sticker watermark packname
+global.author = "black panther" //ur sticker watermark author
+global.wm = " ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʙʟᴀᴄᴋ ᴘᴀɴᴛʜᴇʀ-ᴍᴅ" //ur watermark
 
 // Other
 global.sessionName = 'session'
